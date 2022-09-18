@@ -1,0 +1,62 @@
+[
+	{
+		"ders": "Matematik",
+		"konu": "Trigonometri",
+        "odev": "Orjinal sayfa 12'ye kadar, Acil sayfa 20'ye kadar",
+		"bitis": "21/9/2022"
+	},
+    {
+		"ders": "Fizik",
+		"konu": "Vektörler",
+        "odev": "Orjinal sayfa 12'ye kadar, Acil sayfa 20'ye kadar",
+		"bitis": "21/9/2022"
+	},
+    {
+		"ders": "Kimya",
+		"konu": "Atom Modelleri",
+        "odev": "Orjinal sayfa 12'ye kadar, Acil sayfa 20'ye kadar",
+		"bitis": "22/9/2022"
+	},
+    {
+		"ders": "Biyoloji",
+		"konu": "Sinir Sistemi",
+        "odev": "Orjinal sayfa 12'ye kadar, Acil sayfa 20'ye kadar",
+		"bitis": "22/9/2022"
+	},
+    {
+		"ders": "Edebiyat",
+		"konu": "Kitap Okuma",
+        "odev": "Orjinal sayfa 12'ye kadar, Acil sayfa 20'ye kadar",
+		"bitis": "22/9/2022"
+	},
+    {
+		"ders": "Tarih",
+		"konu": "Osmanlı'nın Yükselişi",
+        "odev": "Orjinal sayfa 12'ye kadar, Acil sayfa 20'ye kadar",
+		"bitis": "23/9/2022"
+	},
+    {
+		"ders": "Din",
+		"konu": "Hristiyanlık ve Yahudilik",
+        "odev": "Orjinal sayfa 12'ye kadar, Acil sayfa 20'ye kadar",
+		"bitis": "25/9/2022"
+	},
+    {
+		"ders": "İngilizce",
+		"konu": "Tenses",
+        "odev": "Orjinal sayfa 12'ye kadar, Acil sayfa 20'ye kadar",
+		"bitis": "28/9/2022"
+	},
+    {
+		"ders": "Almanca",
+		"konu": "Wer bist du?",
+        "odev": "Orjinal sayfa 12'ye kadar, Acil sayfa 20'ye kadar",
+		"bitis": "30/9/2022"
+	},
+    {
+		"ders": "Felsefe",
+		"konu": "Din Felsefesi",
+        "odev": "Orjinal sayfa 12'ye kadar, Acil sayfa 20'ye kadar",
+		"bitis": "2/10/2022"
+	}
+]
